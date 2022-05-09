@@ -1,6 +1,6 @@
 # Final Project for CS536 - Machine Learning - Team 23
 
-This repository contains the code for the final project.
+This repository contains the code for the final project for CS536 - Machine Learning, Spring 2022.
 
 ### Team Members:
 1. Animesh Sharma
@@ -10,7 +10,7 @@ This repository contains the code for the final project.
 
 ### Contents:
 1. Base CycleGAN
-2. Enhanced CycleGAN:
+2. Enhanced CycleGAN
 3. Quantitative Metrics - contains scripts to compute Frechet Inception Distance and Inception Score
 
 ### Enhanced CycleGAN has the following enhancements:
